@@ -88,13 +88,3 @@ https://public.tableau.com/app/profile/nowshin.reza3088/viz/Book1_17798121408580
 
 ---
 
-
-## Repository
-
-GitHub: https://github.com/nowshinreza/ridefast-data-driven-business-insights
-
-## Author
-
-Adnan Parvez
-
-Business Intelligence | Data Analytics | Tableau | Python
